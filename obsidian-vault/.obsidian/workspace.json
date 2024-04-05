@@ -11,8 +11,12 @@
             "id": "144ca6590f332c9e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1-未整理筆記/黑馬程序員 Redis 入門到實戰.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -73,8 +77,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1-未整理筆記/黑馬程序員 Redis 入門到實戰.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1-未整理筆記/黑馬程序員 Redis 入門到實戰.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1-未整理筆記/黑馬程序員 Redis 入門到實戰.md"
+              }
             }
           }
         ]
@@ -149,11 +156,14 @@
       "daily-notes:開啟今天的每日筆記": false,
       "templates:插入模板": false,
       "command-palette:開啟命令面板": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "144ca6590f332c9e",
+  "active": "7a960498594e1096",
   "lastOpenFiles": [
+    "2024-04-05.md",
+    "create a link.md",
     "2-讀書筆記/Redis 設定與啟動.md",
     "1-未整理筆記/黑馬程序員 Redis 入門到實戰.md",
     "Welcome.md",

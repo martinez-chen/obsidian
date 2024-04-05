@@ -1,4 +1,7 @@
 {
-  "newFileLocation": "current",
-  "attachmentFolderPath": "./_attachments"
+  "newFileLocation": "folder",
+  "attachmentFolderPath": "./_attachments",
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "newFileFolderPath": "1-未整理筆記 "
 }
