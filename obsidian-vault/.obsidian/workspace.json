@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-未整理筆記/黑馬程序員 Redis 入門到實戰.md",
+                "file": "1-臨時筆記/黑馬程序員 Redis 入門到實戰.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5c7b17ffb3d7899d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4-項目筆記/【Obsidian工作流】利用Obsidian實現卡片和筆記法.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-未整理筆記/黑馬程序員 Redis 入門到實戰.md",
+                "file": "1-臨時筆記/黑馬程序員 Redis 入門到實戰.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Output",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -97,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-未整理筆記/黑馬程序員 Redis 入門到實戰.md",
+                "file": "4-項目筆記/【Obsidian工作流】利用Obsidian實現卡片和筆記法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-未整理筆記/黑馬程序員 Redis 入門到實戰.md",
+                "file": "4-項目筆記/【Obsidian工作流】利用Obsidian實現卡片和筆記法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-未整理筆記/黑馬程序員 Redis 入門到實戰.md"
+                "file": "4-項目筆記/【Obsidian工作流】利用Obsidian實現卡片和筆記法.md"
               }
             }
           }
@@ -160,15 +174,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7a960498594e1096",
+  "active": "2129074fd0549eac",
   "lastOpenFiles": [
+    "1-臨時筆記/黑馬程序員 Redis 入門到實戰.md",
+    "4-項目筆記/【Obsidian工作流】利用Obsidian實現卡片和筆記法.md",
+    "4-項目筆記",
+    "3-永久筆記",
     "2024-04-05.md",
     "create a link.md",
-    "2-讀書筆記/Redis 設定與啟動.md",
-    "1-未整理筆記/黑馬程序員 Redis 入門到實戰.md",
+    "2-文獻筆記/Redis 設定與啟動.md",
     "Welcome.md",
     "2-讀書筆記/未命名",
-    "2-讀書筆記",
-    "1-未整理筆記"
+    "2-文獻筆記",
+    "1-臨時筆記"
   ]
 }
