@@ -1,4 +1,4 @@
-#redis
+#redis #fleeting #input
 ### Default 
 ---
 ```bash
