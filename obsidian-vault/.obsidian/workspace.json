@@ -11,12 +11,8 @@
             "id": "144ca6590f332c9e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-臨時筆記/黑馬程序員 Redis 入門到實戰.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -25,19 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4-項目筆記/【Obsidian工作流】利用Obsidian實現卡片和筆記法.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9b294f375954ae04",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-臨時筆記/黑馬程序員 Redis 入門到實戰.md",
+                "file": "Welcome.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Output",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -111,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4-項目筆記/【Obsidian工作流】利用Obsidian實現卡片和筆記法.md",
+                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4-項目筆記/【Obsidian工作流】利用Obsidian實現卡片和筆記法.md",
+                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4-項目筆記/【Obsidian工作流】利用Obsidian實現卡片和筆記法.md"
+                "file": "Welcome.md"
               }
             }
           }
@@ -174,16 +157,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2129074fd0549eac",
+  "active": "5c7b17ffb3d7899d",
   "lastOpenFiles": [
+    "Project-related/【Obsidian工作流】利用Obsidian實現卡片和筆記法.md",
+    "Welcome.md",
+    "3-Literature/Redis 設定與啟動.md",
+    "3-Literature",
+    "2-Permanent",
+    "1-Fleeting",
     "1-臨時筆記/黑馬程序員 Redis 入門到實戰.md",
-    "4-項目筆記/【Obsidian工作流】利用Obsidian實現卡片和筆記法.md",
-    "4-項目筆記",
+    "Project-related",
     "3-永久筆記",
     "2024-04-05.md",
     "create a link.md",
-    "2-文獻筆記/Redis 設定與啟動.md",
-    "Welcome.md",
     "2-讀書筆記/未命名",
     "2-文獻筆記",
     "1-臨時筆記"
