@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "3-Literature/Redis 設定與啟動.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "3-Literature/Redis 設定與啟動.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "3-Literature/Redis 設定與啟動.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "3-Literature/Redis 設定與啟動.md"
               }
             }
           }
@@ -159,14 +159,14 @@
   },
   "active": "5c7b17ffb3d7899d",
   "lastOpenFiles": [
+    "【Obsidian工作流】利用Obsidian實現卡片和筆記法.md",
     "Project-related/【Obsidian工作流】利用Obsidian實現卡片和筆記法.md",
-    "Welcome.md",
     "3-Literature/Redis 設定與啟動.md",
     "3-Literature",
     "2-Permanent",
     "1-Fleeting",
     "1-臨時筆記/黑馬程序員 Redis 入門到實戰.md",
-    "Project-related",
+    "4-Project-related",
     "3-永久筆記",
     "2024-04-05.md",
     "create a link.md",
