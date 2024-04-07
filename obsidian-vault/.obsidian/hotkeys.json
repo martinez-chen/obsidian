@@ -34,5 +34,13 @@
       ],
       "key": "G"
     }
+  ],
+  "editor:insert-table": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "Tab"
+    }
   ]
 }
