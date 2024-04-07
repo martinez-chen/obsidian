@@ -3,5 +3,6 @@
   "attachmentFolderPath": "./_attachments",
   "trashOption": "local",
   "alwaysUpdateLinks": true,
-  "newFileFolderPath": "1-未整理筆記 "
+  "newFileFolderPath": "1-Fleeting",
+  "useTab": true
 }
