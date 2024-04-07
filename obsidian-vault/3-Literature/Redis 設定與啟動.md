@@ -1,4 +1,4 @@
-#redis #output
+#redis #output #permanent 
 ### Default 
 ---
 ```bash
