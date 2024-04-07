@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-Fleeting/Redis 數據結構.md",
+                "file": "3-Literature/Redis 數據結構.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-Fleeting/Redis 數據結構.md",
+                "file": "3-Literature/Redis 常用命令.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-Fleeting/Redis 數據結構.md",
+                "file": "3-Literature/Redis 常用命令.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-Fleeting/Redis 數據結構.md",
+                "file": "3-Literature/Redis 常用命令.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-Fleeting/Redis 數據結構.md"
+                "file": "3-Literature/Redis 常用命令.md"
               }
             }
           },
@@ -158,12 +159,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,10 +177,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5c7b17ffb3d7899d",
+  "active": "ce9937d7065b87f8",
   "lastOpenFiles": [
-    "1-Fleeting/2024-04-07.md",
-    "1-Fleeting/Redis 數據結構.md",
+    "3-Literature/Redis 數據結構.md",
+    "3-Literature/Redis 常用命令.md",
     "3-Literature/Redis 設定與啟動.md",
     "【Obsidian工作流】利用Obsidian實現卡片和筆記法.md",
     "Project-related/【Obsidian工作流】利用Obsidian實現卡片和筆記法.md",
