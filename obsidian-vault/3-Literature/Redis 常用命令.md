@@ -56,8 +56,6 @@ List類型類似於Java中的LinkedList，可以看作雙向鏈表結構，可�
 | BLPOP/BRPOP          | 與LPOP．RPOP類似，不過在沒有元素的時候會等待指定時間，不會馬上回傳nil |
 |                      |                                          |
 
-  
-
 - 思考
 
 > 如何用List結構模擬堆疊?
