@@ -1,12 +1,13 @@
 #redis #output #permanent 
-### Default 
----
+
+## Default 
+
 ```bash
 redis-server
 ```
-
-### Use Setting
 ---
+## Use Setting
+
 must-have
 ```vim
 # 允許訪問的地址，默認是127.0.0.1，會導致只能在本地訪問。修改為0.0.0.0則可以在任意IP訪問，生產環境不要設置為0.0.0.0  
@@ -41,8 +42,9 @@ kill -15 pid
 
 redis-cli -a pwd shutdown
 ```
-### Auto Start up
 ---
+## Auto Start up
+
 建立一個系統服務文件
 ```bash
 vi /etc/systemd/system/redis.service

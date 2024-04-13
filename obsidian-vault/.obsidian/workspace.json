@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Literature/Redis 常用命令.md",
+                "file": "3-Literature/Redis Java 客戶端.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c11c11c3adb6fc17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-Fleeting/Redis持久化.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Literature/Redis 常用命令.md",
+                "file": "1-Fleeting/Redis持久化.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Literature/Redis 常用命令.md",
+                "file": "1-Fleeting/Redis持久化.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Literature/Redis 常用命令.md"
+                "file": "1-Fleeting/Redis持久化.md"
               }
             }
           },
@@ -171,7 +183,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -189,13 +201,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "86cfc4584c0ce459",
+  "active": "c11c11c3adb6fc17",
   "lastOpenFiles": [
-    "1-Fleeting/Redis Java 客戶端.md",
     "3-Literature/Redis 常用命令.md",
+    "1-Fleeting/Redis持久化.md",
+    "3-Literature/Redis Java 客戶端.md",
+    "【Obsidian工作流】利用Obsidian實現卡片和筆記法.md",
     "3-Literature/Redis 數據結構.md",
     "3-Literature/Redis 設定與啟動.md",
-    "【Obsidian工作流】利用Obsidian實現卡片和筆記法.md",
     "Project-related/【Obsidian工作流】利用Obsidian實現卡片和筆記法.md",
     "3-Literature",
     "2-Permanent",
