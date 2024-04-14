@@ -8,55 +8,49 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5c7b17ffb3d7899d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3-Literature/Redis 數據結構.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ec0e6e1a29054a60",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3-Literature/Redis 常用命令.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "86cfc4584c0ce459",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3-Literature/Redis Java 客戶端.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c11c11c3adb6fc17",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-Fleeting/Redis持久化.md",
+                "file": "3-Literature/Redis 持久化.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "401b35a8aa54be90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-Fleeting/未命名.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
+      },
+      {
+        "id": "dc7ce1de4becb934",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "93e344d780d88cf0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3-Literature/Redis 持久化.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-Fleeting/Redis持久化.md",
+                "file": "1-Fleeting/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-Fleeting/Redis持久化.md",
+                "file": "1-Fleeting/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-Fleeting/Redis持久化.md"
+                "file": "1-Fleeting/未命名.md"
               }
             }
           },
@@ -187,7 +181,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,14 +196,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c11c11c3adb6fc17",
+  "active": "401b35a8aa54be90",
   "lastOpenFiles": [
-    "3-Literature/Redis 常用命令.md",
-    "1-Fleeting/Redis持久化.md",
-    "3-Literature/Redis Java 客戶端.md",
-    "【Obsidian工作流】利用Obsidian實現卡片和筆記法.md",
+    "3-Literature/Redis 持久化.md",
+    "1-Fleeting/未命名.md",
     "3-Literature/Redis 數據結構.md",
+    "3-Literature/Redis Java 客戶端.md",
     "3-Literature/Redis 設定與啟動.md",
+    "3-Literature/Redis 常用命令.md",
+    "【Obsidian工作流】利用Obsidian實現卡片和筆記法.md",
     "Project-related/【Obsidian工作流】利用Obsidian實現卡片和筆記法.md",
     "3-Literature",
     "2-Permanent",
