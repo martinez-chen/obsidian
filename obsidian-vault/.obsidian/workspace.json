@@ -4,33 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "7c80c7ea38ef3fab",
+        "id": "cea7c96cebc79f0f",
         "type": "tabs",
         "children": [
           {
-            "id": "c11c11c3adb6fc17",
+            "id": "d256cd4f9d945fa0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Literature/Redis 持久化.md",
+                "file": "3-Literature/Redis 故障恢復.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "92b7444787b8d606",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-04-14 23.32.17.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-04-14 23.32.17.excalidraw.md",
+                "file": "3-Literature/Redis 故障恢復.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-04-14 23.32.17.excalidraw.md",
+                "file": "3-Literature/Redis 故障恢復.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-04-14 23.32.17.excalidraw.md"
+                "file": "3-Literature/Redis 故障恢復.md"
               }
             }
           },
@@ -181,20 +170,20 @@
     "type": "floating",
     "children": [
       {
-        "id": "ebf15b504d76b3bb",
+        "id": "e585f357b8b0dbec",
         "type": "window",
         "children": [
           {
-            "id": "d1b9fbc4dbfdc2d2",
+            "id": "3838f09b210577d5",
             "type": "tabs",
             "children": [
               {
-                "id": "401b35a8aa54be90",
+                "id": "3724f22bd6c07f3b",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "1-Fleeting/Redis 故障恢復.md",
+                    "file": "3-Literature/Redis 故障恢復.md",
                     "mode": "source",
                     "source": false
                   }
@@ -204,30 +193,35 @@
           }
         ],
         "direction": "vertical",
-        "x": 538,
-        "y": 63,
-        "width": 1211.5,
-        "height": 880,
+        "x": 1470,
+        "y": 0,
+        "width": 2560,
+        "height": 1080,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "92b7444787b8d606",
+  "active": "3724f22bd6c07f3b",
   "lastOpenFiles": [
-    "1-Fleeting/Redis 故障恢復.md",
-    "1-Fleeting/_attachments/Pasted image 20240421142148.png",
-    "1-Fleeting/_attachments",
-    "Excalidraw/Drawing 2024-04-14 23.32.17.excalidraw.md",
-    "Excalidraw/_attachments/Pasted Image 20240421141623_974.png",
-    "Excalidraw/_attachments",
+    "3-Literature/Redis 常用命令.md",
+    "Excalidraw/哨兵模式 Sentinel.md",
+    "3-Literature/Redis 故障恢復.md",
+    "Excalidraw/主從模式 Master-Salve.md",
+    "Excalidraw/未命名.canvas",
+    "1-Fleeting/哨兵模式.md",
+    "3-Literature/Redis 數據結構.md",
+    "3-Literature/_attachments/Pasted image 20240421142148.png",
+    "3-Literature/Redis 持久化.md",
+    "3-Literature/Redis 設定與啟動.md",
     "3-Literature/Redis Java 客戶端.md",
+    "Excalidraw/_attachments/Pasted Image 20240421141623_974.png",
+    "1-Fleeting/().md",
+    "3-Literature/_attachments/Pasted image 20240421144050.png",
+    "3-Literature/_attachments",
+    "Excalidraw/_attachments",
     "【Obsidian工作流】利用Obsidian實現卡片和筆記法.md",
     "Excalidraw",
-    "3-Literature/Redis 持久化.md",
-    "3-Literature/Redis 數據結構.md",
-    "3-Literature/Redis 設定與啟動.md",
-    "3-Literature/Redis 常用命令.md",
     "Project-related/【Obsidian工作流】利用Obsidian實現卡片和筆記法.md",
     "3-Literature",
     "2-Permanent",

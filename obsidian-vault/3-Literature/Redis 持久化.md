@@ -8,7 +8,7 @@
 >redis-cli 
 >save # 由redis main process執行，會阻塞其於的process。預設就有，關閉服務時執行 >bgsave # 建立其他process於背景執行，異步作業
 ```
-可以在redis.conf內找到，格式如下
+可以在[redis.conf]()內找到，格式如下
 ```vim
 # 900秒內，若至少一個key被修改，則執行bgsave，如果是save "" 則表示禁用 
 save 900 1 
