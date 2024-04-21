@@ -11,15 +11,24 @@
             "id": "d256cd4f9d945fa0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "3-Literature/Redis 故障恢復.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/主從模式 Master-Salve.md"
+              }
+            }
+          },
+          {
+            "id": "66d1071353dc1362",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/分片集群 Sharding Cluster.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 214.5
+    "width": 225.5
   },
   "right": {
     "id": "2b6016c0638f608e",
@@ -85,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Literature/Redis 故障恢復.md",
+                "file": "Excalidraw/分片集群 Sharding Cluster.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Literature/Redis 故障恢復.md",
+                "file": "Excalidraw/分片集群 Sharding Cluster.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Literature/Redis 故障恢復.md"
+                "file": "Excalidraw/分片集群 Sharding Cluster.md"
               }
             }
           },
@@ -183,13 +192,26 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "3-Literature/Redis 故障恢復.md",
+                    "file": "3-Literature/Redis 高可用模式.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "e4c2839211d97aa4",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "3-Literature/Redis 數據同步.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
@@ -202,15 +224,20 @@
       }
     ]
   },
-  "active": "3724f22bd6c07f3b",
+  "active": "d63d03a0e473e091",
   "lastOpenFiles": [
-    "3-Literature/Redis 常用命令.md",
-    "Excalidraw/哨兵模式 Sentinel.md",
-    "3-Literature/Redis 故障恢復.md",
+    "3-Literature/Redis 高可用模式.md",
+    "3-Literature/Redis 數據同步.md",
+    "Excalidraw/分片集群 Sharding Cluster.md",
     "Excalidraw/主從模式 Master-Salve.md",
+    "3-Literature/Redis 數據結構.md",
+    "Excalidraw/哨兵模式 Sentinel.md",
+    "3-Literature/_attachments/增量同步.png",
+    "3-Literature/_attachments/全量同步.png",
+    "3-Literature/_attachments",
+    "3-Literature/Redis 常用命令.md",
     "Excalidraw/未命名.canvas",
     "1-Fleeting/哨兵模式.md",
-    "3-Literature/Redis 數據結構.md",
     "3-Literature/_attachments/Pasted image 20240421142148.png",
     "3-Literature/Redis 持久化.md",
     "3-Literature/Redis 設定與啟動.md",
@@ -218,7 +245,6 @@
     "Excalidraw/_attachments/Pasted Image 20240421141623_974.png",
     "1-Fleeting/().md",
     "3-Literature/_attachments/Pasted image 20240421144050.png",
-    "3-Literature/_attachments",
     "Excalidraw/_attachments",
     "【Obsidian工作流】利用Obsidian實現卡片和筆記法.md",
     "Excalidraw",
