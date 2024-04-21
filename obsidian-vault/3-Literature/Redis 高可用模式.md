@@ -3,6 +3,8 @@
 
 ### [[主從模式 Master-Salve]]
 ### [[哨兵模式 Sentinel]]
+### [[分片集群 Cluster Sharding]]
+
 
 ---
 ## 設定方式
