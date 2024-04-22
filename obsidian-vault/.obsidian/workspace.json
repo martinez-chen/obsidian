@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Literature/Redis 高可用模式.md",
+                "file": "1-Fleeting/Redis 高可用模式.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Literature/Redis 高可用模式.md",
+                "file": "1-Fleeting/Redis 高可用模式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Literature/Redis 高可用模式.md",
+                "file": "1-Fleeting/Redis 高可用模式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Literature/Redis 高可用模式.md"
+                "file": "1-Fleeting/Redis 高可用模式.md"
               }
             }
           },
@@ -183,7 +183,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "3-Literature/Redis 高可用模式.md",
+                    "file": "1-Fleeting/Redis 高可用模式.md",
                     "mode": "preview",
                     "source": false
                   }
@@ -214,24 +214,24 @@
       }
     ]
   },
-  "active": "3724f22bd6c07f3b",
+  "active": "d256cd4f9d945fa0",
   "lastOpenFiles": [
-    "Excalidraw/分片集群 Cluster Sharding.md",
-    "3-Literature/Redis 高可用模式.md",
     "3-Literature/Redis 數據同步.md",
+    "1-Fleeting/Redis 高可用模式.md",
+    "3-Literature/Redis Java 客戶端.md",
+    "3-Literature/Redis 持久化.md",
+    "3-Literature/Redis 設定與啟動.md",
+    "3-Literature/Redis 常用命令.md",
+    "3-Literature/Redis 數據結構.md",
+    "Excalidraw/分片集群 Cluster Shard.md",
     "Excalidraw/主從模式 Master-Salve.md",
     "Excalidraw/哨兵模式 Sentinel.md",
-    "3-Literature/Redis 常用命令.md",
-    "3-Literature/Redis 設定與啟動.md",
-    "3-Literature/Redis 數據結構.md",
     "3-Literature/_attachments/增量同步.png",
     "3-Literature/_attachments/全量同步.png",
     "3-Literature/_attachments",
     "Excalidraw/未命名.canvas",
     "1-Fleeting/哨兵模式.md",
     "3-Literature/_attachments/Pasted image 20240421142148.png",
-    "3-Literature/Redis 持久化.md",
-    "3-Literature/Redis Java 客戶端.md",
     "Excalidraw/_attachments/Pasted Image 20240421141623_974.png",
     "1-Fleeting/().md",
     "3-Literature/_attachments/Pasted image 20240421144050.png",

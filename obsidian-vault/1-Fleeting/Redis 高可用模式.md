@@ -1,9 +1,9 @@
-#redis #output #permanent 
+#redis #output #fleeting  
 ## 設計結構
 
 ### [[主從模式 Master-Salve]]
 ### [[哨兵模式 Sentinel]]
-### [[分片集群 Cluster Sharding]]
+### [[分片集群 Cluster Shard]]
 
 
 ---
