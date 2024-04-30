@@ -5,7 +5,8 @@ redis 是一個key-value資料庫，key一般是string類型，value類型有多
 Redis Keys
 - Unique
 - Binary safe
-- 
+- 通常使用：當作分隔符號
+- 區分大小寫
 
 
 | 基本類型  |                           |

@@ -1,21 +1,27 @@
 #redis #output #permanent 
 
+[Redis命令](https://redis.io/docs/latest/commands/set/)
 ## 通用命令
 部分數據類型的，都可以使用的指令．
 
 Redis的key的格式： `[項目]:[業務名]:[類型]:[id]`
 
-| 命令          | 描述                                         |
-| ----------- | ------------------------------------------ |
-| SET         | 添加或者修改已經存在的一個String類型的鍵值對                  |
-| GET         | 根據key獲取String類型的value                      |
-| MSET        | 批量添加多個String類型的鍵值對                         |
-| MGET        | 根據多個key獲取多個String類型的value                  |
-| INCR        | 讓一個整數型的key自增1                              |
-| INCRBY      | 讓一個整數型的key自增並指定步長，例如：incrby num 2 讓num值自增2 |
-| INCRBYFLOAT | 讓一個浮點類型的数字自增並指定步長                          |
-| SETNX       | 添加一個String類型的鍵值對，前提是這個key不存在，否則不執行         |
-| SETEX       | 添加一個String類型的鍵值對，並且指定有效期                   |
+| 命令        | 描述                                                                 |
+| ----------- | -------------------------------------------------------------------- |
+| SET         | 添加或者修改已經存在的一個String類型的鍵值對  NX 需不存在|XX 須以存在                        |
+| GET         | 根據key獲取String類型的value                                         |
+| MSET        | 批量添加多個String類型的鍵值對                                       |
+| MGET        | 根據多個key獲取多個String類型的value                                 |
+| INCR        | 讓一個整數型的key自增1                                               |
+| INCRBY      | 讓一個整數型的key自增並指定步長，例如：incrby num 2 讓num值自增2     |
+| INCRBYFLOAT | 讓一個浮點類型的数字自增並指定步長                                   |
+| SETNX       | 添加一個String類型的鍵值對，前提是這個key不存在，否則不執行          |
+| SETEX       | 添加一個String類型的鍵值對，並且指定有效期                           |
+| KEYS        | 阻塞直到查詢完畢，不要再營運環境中使用                               |
+| SCAN        | SCAN slop [MATCH pattern] [COUNT count],ex: scan 0 match customer:1* |
+| DEL         | 阻塞刪除                                                             |
+| UNLINK      | 非阻塞移除                                                           |
+| EXISTS            |   查詢key是否存在                                                                   |
 
 ---
 ## Hash類型
@@ -113,3 +119,7 @@ SortedSet有以下特性：
 | ZRANGE key min max           | 按照score排序後，獲取指定排名範圍內的元素               |
 | ZRANGEBYSCORE key min max    | 按照score排序後，獲取指定score範圍內的元素              |
 | ZINTER/ZDIFF/ZUNION          | 交集．差集．聯集                                        |
+
+
+
+
