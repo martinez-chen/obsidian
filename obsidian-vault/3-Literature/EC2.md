@@ -60,4 +60,13 @@
 
 ### Elastic Load Balancing
 
-是一種區域結構，不是在個別EC2上執行
+是一種區域結構，不是在個別EC2上執行，可在多個執行個體之間自動分配流量，可將前後端請求解偶，後端產生新的實例時只需通知ELB即可，不需通知每一個前端服務。
+
+
+### Message and Queue
+
+應用程式之間直接彼此通訊，稱==緊湊耦合==，當有單一元件故障時將影響整個系統。
+兩個 AWS 服務：
+- Amazon Simple Queue Service ([[Amazon SQS]])
+- Amazon Simple Notification Service ([[Amazon SNS]])
+
