@@ -67,6 +67,6 @@
 
 應用程式之間直接彼此通訊，稱==緊湊耦合==，當有單一元件故障時將影響整個系統。
 兩個 AWS 服務：
-- Amazon Simple Queue Service ([[Amazon SQS]])
-- Amazon Simple Notification Service ([[Amazon SNS]])
+-  [[Amazon SQS]]
+- [[Amazon SNS]]
 
