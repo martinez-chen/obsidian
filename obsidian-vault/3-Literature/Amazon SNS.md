@@ -1,4 +1,4 @@
-#aws #saa #dictionary 
+#aws #saa #dictionary #services 
 
 Amazon Simple Notification Service
 Amazon SNS 用來將訊息傳送至服務，也可以用來通知傳送給終端使用者，SNS 是透過另一種稱為發布/訂閱或 pub/sub 模型的方式。

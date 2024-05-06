@@ -1,4 +1,4 @@
-#aws #saa 
+#aws #saa  #services 
 
 是一種[[Serverless]]服務，設定好觸發條件，當滿足觸發條件Lambda 函數變會自動執行，而不需管理這個環境。
 

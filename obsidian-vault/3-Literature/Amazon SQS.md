@@ -1,4 +1,4 @@
-#aws #saa #dictionary 
+#aws #saa #dictionary #services 
 
 Amazon Simple Queue Service
 Amazon SQS 可以在任何磁碟區的軟體之間
