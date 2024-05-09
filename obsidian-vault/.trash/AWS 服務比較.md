@@ -10,11 +10,10 @@
 - 事件導向應用程式
 - 不想要管理基礎環境
 
-## AWS Forgate
-- 容器專用的無伺服器運算引擎
+[[AWS Forgate]]
 
 
 Docker 容器型工作負載管理工具
-Amazon ECS
-Amazon EKS
+[[Amazon ECS]]
+[[Amazon EKS]]
 

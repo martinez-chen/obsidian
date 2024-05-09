@@ -1,5 +1,5 @@
 ## Security Groups 安全群組
-負責管理[[Amazon Virtual Private Cloud|VPC]]中的子網路存取權限
+負責管理[[Amazon VPC|VPC]]中的子網路存取權限
 
 
 如同大樓管理員一樣，確認是否可以進入，但不會確認是否可以傳出，無狀態

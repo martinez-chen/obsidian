@@ -1,1 +1,3 @@
-可讓您在資料中心和 [[Amazon Virtual Private Cloud|VPC]]之間建立專用私有連線。 
+可讓您在資料中心和 [[Amazon VPC|VPC]]之間建立專用私有連線。 
+
+可協助您降低網路成本，並增加可透過網路傳輸的頻寬數
