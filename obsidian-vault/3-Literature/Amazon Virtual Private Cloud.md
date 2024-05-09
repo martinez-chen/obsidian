@@ -14,5 +14,8 @@
 若要允許公有網路流量進出 VPC ，則必須將網路閘道(IGW)連接到VPC
 
 若僅允許私有網路流量進出 VPC ，則必須將VPN
-連接到VPC
+連接到VPC。
+
+網際網路閘道是 VPC 和網際網路之間的連結。沒有網際網路閘道，任何人都無法存取 VPC 內的資源。
+
 Virtual Private Gateway

@@ -1,1 +1,1 @@
-可以建立一個完全私有的光纖連線，連接到 [[Amazon Virtual Private Cloud|VPC]]
+可讓您在資料中心和 [[Amazon Virtual Private Cloud|VPC]]之間建立專用私有連線。 
