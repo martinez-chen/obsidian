@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-Fleeting/Amazon CloudFront.md",
+                "file": "2-Permanent/DNS.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-Fleeting/Amazon CloudFront.md",
+                "file": "2-Permanent/DNS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-Fleeting/Amazon CloudFront.md",
+                "file": "2-Permanent/DNS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-Fleeting/Amazon CloudFront.md"
+                "file": "2-Permanent/DNS.md"
               }
             }
           },
@@ -165,13 +165,14 @@
   },
   "active": "d256cd4f9d945fa0",
   "lastOpenFiles": [
+    "3-Literature/Amazon Route 53.md",
+    "2-Permanent/DNS.md",
+    "3-Literature/Amazon CloudFront.md",
     "2-Permanent/Edge.md",
     "2-Permanent/AZ.md",
     "3-Literature/AWS 基礎設施.md",
     "3-Literature/AWS CloudFormation.md",
     "2-Permanent/Region.md",
-    "3-Literature/Amazon Route 53.md",
-    "1-Fleeting/Amazon CloudFront.md",
     "2-Permanent/CDN.md",
     "3-Literature/AWS Direct Connect.md",
     "3-Literature/AWS EC2.md",
@@ -199,7 +200,6 @@
     "Excalidraw/_attachments",
     "【Obsidian工作流】利用Obsidian實現卡片和筆記法.md",
     "Excalidraw",
-    "Project-related/【Obsidian工作流】利用Obsidian實現卡片和筆記法.md",
     "3-Literature",
     "2-Permanent",
     "1-Fleeting",

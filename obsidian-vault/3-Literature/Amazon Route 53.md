@@ -1,8 +1,6 @@
 #aws #services 
 
-一種 DNS Web服務，具備管理網域名稱的 DNS 紀錄，也可以直接在 Route 53 註冊新的網域名稱。
-
-
+一種 [[DNS]] Web服務，具備管理網域名稱的 DNS 紀錄，也可以直接在 Route 53 註冊新的網域名稱。
 
 
 1. Amazon Route 53 使用 DNS 解析來識別 domain相對應的IP 回傳給客戶。
