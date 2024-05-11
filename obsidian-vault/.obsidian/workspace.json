@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Literature/AWS 基礎設施.md",
+                "file": "1-Fleeting/Amazon CloudFront.md",
                 "mode": "source",
                 "source": true
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "region",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Literature/AWS 基礎設施.md",
+                "file": "1-Fleeting/Amazon CloudFront.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Literature/AWS 基礎設施.md",
+                "file": "1-Fleeting/Amazon CloudFront.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Literature/AWS 基礎設施.md"
+                "file": "1-Fleeting/Amazon CloudFront.md"
               }
             }
           },
@@ -145,13 +145,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,10 +165,16 @@
   },
   "active": "d256cd4f9d945fa0",
   "lastOpenFiles": [
+    "2-Permanent/Edge.md",
+    "2-Permanent/AZ.md",
     "3-Literature/AWS 基礎設施.md",
     "3-Literature/AWS CloudFormation.md",
-    "3-Literature/AWS EC2.md",
+    "2-Permanent/Region.md",
     "3-Literature/Amazon Route 53.md",
+    "1-Fleeting/Amazon CloudFront.md",
+    "2-Permanent/CDN.md",
+    "3-Literature/AWS Direct Connect.md",
+    "3-Literature/AWS EC2.md",
     "1-Fleeting/2024-05-10.md",
     "1-Fleeting/簡訊登入.md",
     "1-Fleeting/Redis 高可用模式.md",
@@ -199,11 +203,8 @@
     "3-Literature",
     "2-Permanent",
     "1-Fleeting",
-    "1-臨時筆記/黑馬程序員 Redis 入門到實戰.md",
     "4-Project-related",
     "3-永久筆記",
-    "2024-04-05.md",
-    "create a link.md",
     "2-讀書筆記/未命名",
     "2-文獻筆記"
   ]
