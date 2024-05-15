@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Literature/Amazon SQS.md",
+                "file": "1-Fleeting/Amazon EBS.md",
                 "mode": "source",
                 "source": true
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "region",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3-Literature/Amazon SQS.md",
+                "file": "1-Fleeting/Amazon EBS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3-Literature/Amazon SQS.md",
+                "file": "1-Fleeting/Amazon EBS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3-Literature/Amazon SQS.md"
+                "file": "1-Fleeting/Amazon EBS.md"
               }
             }
           },
@@ -165,6 +165,17 @@
   },
   "active": "d256cd4f9d945fa0",
   "lastOpenFiles": [
+    "1-Fleeting/ACL.md",
+    "Excalidraw/哨兵模式 Sentinel.md",
+    "3-Literature/AWS EC2.md",
+    "1-Fleeting/Amazon EKS.md",
+    "1-Fleeting/Amazon ECS.md",
+    "1-Fleeting/AWS Forgate.md",
+    "1-Fleeting/AWS Outposts.md",
+    "1-Fleeting/Redis-Insight.md",
+    "1-Fleeting/Amazon EBS.md",
+    "1-Fleeting/未命名.md",
+    "3-Literature/Amazon SQS.md",
     "3-Literature/Amazon CloudFront.md",
     "3-Literature/Amazon Route 53.md",
     "2-Permanent/DNS.md",
@@ -175,30 +186,19 @@
     "2-Permanent/Region.md",
     "2-Permanent/CDN.md",
     "3-Literature/AWS Direct Connect.md",
-    "3-Literature/AWS EC2.md",
-    "1-Fleeting/2024-05-10.md",
     "1-Fleeting/簡訊登入.md",
     "1-Fleeting/Redis 高可用模式.md",
     "3-Literature/Redis 數據同步.md",
     "3-Literature/Redis Java 客戶端.md",
     "3-Literature/Redis 持久化.md",
-    "3-Literature/Redis 設定與啟動.md",
-    "3-Literature/Redis 常用命令.md",
-    "3-Literature/Redis 數據結構.md",
-    "Excalidraw/分片集群 Cluster Shard.md",
-    "Excalidraw/主從模式 Master-Salve.md",
-    "Excalidraw/哨兵模式 Sentinel.md",
     "3-Literature/_attachments/增量同步.png",
     "3-Literature/_attachments/全量同步.png",
     "3-Literature/_attachments",
     "Excalidraw/未命名.canvas",
-    "1-Fleeting/哨兵模式.md",
     "3-Literature/_attachments/Pasted image 20240421142148.png",
     "Excalidraw/_attachments/Pasted Image 20240421141623_974.png",
-    "1-Fleeting/().md",
     "3-Literature/_attachments/Pasted image 20240421144050.png",
     "Excalidraw/_attachments",
-    "【Obsidian工作流】利用Obsidian實現卡片和筆記法.md",
     "Excalidraw",
     "3-Literature",
     "2-Permanent",
