@@ -100,8 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5,
-    "collapsed": true
+    "width": 253.5
   },
   "right": {
     "id": "2b6016c0638f608e",
@@ -195,10 +194,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "061d1005949c97de",
+  "active": "d90cdaedc184e392",
   "lastOpenFiles": [
-    "1-Fleeting/未命名.md",
+    "【Obsidian工作流】利用Obsidian實現卡片和筆記法.md",
+    "3-Literature/Security Groups.md",
     "1-Fleeting/IAM.md",
+    "1-Fleeting/未命名.md",
     "1-Fleeting/ACL.md",
     "1-Fleeting/Amazon EBS.md",
     "1-Fleeting/2024-05-30.md",
@@ -221,8 +222,6 @@
     "2-Permanent/Region.md",
     "2-Permanent/CDN.md",
     "3-Literature/AWS Direct Connect.md",
-    "1-Fleeting/簡訊登入.md",
-    "1-Fleeting/Redis 高可用模式.md",
     "3-Literature/_attachments/增量同步.png",
     "3-Literature/_attachments/全量同步.png",
     "3-Literature/_attachments",
