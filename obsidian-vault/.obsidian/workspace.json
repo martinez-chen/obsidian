@@ -18,8 +18,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "26bfc8cd8b2330b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-Fleeting/2024-05-30.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-Fleeting/2024-05-30.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-Fleeting/2024-05-30.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -163,10 +176,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d256cd4f9d945fa0",
+  "active": "26bfc8cd8b2330b4",
   "lastOpenFiles": [
-    "1-Fleeting/Amazon EBS.md",
     "1-Fleeting/2024-05-30.md",
+    "conflict-files-obsidian-git.md",
+    "1-Fleeting/Amazon EBS.md",
     "1-Fleeting/ACL.md",
     "Excalidraw/哨兵模式 Sentinel.md",
     "3-Literature/AWS EC2.md",
@@ -190,7 +204,6 @@
     "1-Fleeting/簡訊登入.md",
     "1-Fleeting/Redis 高可用模式.md",
     "3-Literature/Redis 數據同步.md",
-    "3-Literature/Redis Java 客戶端.md",
     "3-Literature/_attachments/增量同步.png",
     "3-Literature/_attachments/全量同步.png",
     "3-Literature/_attachments",
