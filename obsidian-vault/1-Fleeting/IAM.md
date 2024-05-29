@@ -7,10 +7,10 @@ Identity and Access Management
 * ***Users** are people within organization, and can be group
 * __Groups__ only contain users, not other groups
 
-* tip> User don't have to belong to a group, and user can belong multiple groups.
+    >User don't have to belong to a group, and user can belong multiple groups.
 
 
 ## Permissions
 
-__Users__ or **Groups** can be assigned JSON documents called pollicies
+__Users__ or **Groups** can be assigned JSON documents called policies
 
