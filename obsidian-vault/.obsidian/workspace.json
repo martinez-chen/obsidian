@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-Fleeting/Amazon EBS.md",
+                "file": "1-Fleeting/2024-05-30.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-Fleeting/Amazon EBS.md",
+                "file": "1-Fleeting/2024-05-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-Fleeting/Amazon EBS.md",
+                "file": "1-Fleeting/2024-05-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-Fleeting/Amazon EBS.md"
+                "file": "1-Fleeting/2024-05-30.md"
               }
             }
           },
@@ -165,6 +165,8 @@
   },
   "active": "d256cd4f9d945fa0",
   "lastOpenFiles": [
+    "1-Fleeting/Amazon EBS.md",
+    "1-Fleeting/2024-05-30.md",
     "1-Fleeting/ACL.md",
     "Excalidraw/哨兵模式 Sentinel.md",
     "3-Literature/AWS EC2.md",
@@ -173,7 +175,6 @@
     "1-Fleeting/AWS Forgate.md",
     "1-Fleeting/AWS Outposts.md",
     "1-Fleeting/Redis-Insight.md",
-    "1-Fleeting/Amazon EBS.md",
     "1-Fleeting/未命名.md",
     "3-Literature/Amazon SQS.md",
     "3-Literature/Amazon CloudFront.md",
@@ -190,7 +191,6 @@
     "1-Fleeting/Redis 高可用模式.md",
     "3-Literature/Redis 數據同步.md",
     "3-Literature/Redis Java 客戶端.md",
-    "3-Literature/Redis 持久化.md",
     "3-Literature/_attachments/增量同步.png",
     "3-Literature/_attachments/全量同步.png",
     "3-Literature/_attachments",
