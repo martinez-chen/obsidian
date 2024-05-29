@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-Fleeting/A.md",
+                "file": "1-Fleeting/IAM.md",
                 "mode": "source",
                 "source": true
               }
@@ -33,6 +33,24 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "f4bf2cc2805e2c8b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "061d1005949c97de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-Fleeting/IAM.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +100,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5
+    "width": 253.5,
+    "collapsed": true
   },
   "right": {
     "id": "2b6016c0638f608e",
@@ -98,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-Fleeting/A.md",
+                "file": "1-Fleeting/IAM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-Fleeting/A.md",
+                "file": "1-Fleeting/IAM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-Fleeting/A.md"
+                "file": "1-Fleeting/IAM.md"
               }
             }
           },
@@ -176,10 +195,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d90cdaedc184e392",
+  "active": "061d1005949c97de",
   "lastOpenFiles": [
     "1-Fleeting/未命名.md",
-    "1-Fleeting/A.md",
+    "1-Fleeting/IAM.md",
     "1-Fleeting/ACL.md",
     "1-Fleeting/Amazon EBS.md",
     "1-Fleeting/2024-05-30.md",
