@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-Fleeting/ACL.md",
+                "file": "3-Literature/Security Groups.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "a7d944162a23b72b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-Fleeting/MFA.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "f4bf2cc2805e2c8b",
@@ -116,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-Fleeting/ACL.md",
+                "file": "1-Fleeting/MFA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-Fleeting/ACL.md",
+                "file": "1-Fleeting/MFA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-Fleeting/ACL.md"
+                "file": "1-Fleeting/MFA.md"
               }
             }
           },
@@ -194,18 +206,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d90cdaedc184e392",
+  "active": "a7d944162a23b72b",
   "lastOpenFiles": [
+    "3-Literature/Security Groups.md",
+    "1-Fleeting/MFA.md",
+    "2-Permanent/ACL.md",
     "3-Literature/AWS Outposts.md",
     "3-Literature/AWS Forgate.md",
     "3-Literature/Amazon EBS.md",
     "3-Literature/Amazon ECS.md",
     "3-Literature/Amazon EKS.md",
-    "1-Fleeting/ACL.md",
     "1-Fleeting/未命名.md",
     "1-Fleeting/IAM.md",
     "【Obsidian工作流】利用Obsidian實現卡片和筆記法.md",
-    "3-Literature/Security Groups.md",
     "1-Fleeting/2024-05-30.md",
     "conflict-files-obsidian-git.md",
     "Excalidraw/哨兵模式 Sentinel.md",
@@ -221,7 +234,6 @@
     "3-Literature/AWS CloudFormation.md",
     "2-Permanent/Region.md",
     "2-Permanent/CDN.md",
-    "3-Literature/AWS Direct Connect.md",
     "3-Literature/_attachments/增量同步.png",
     "3-Literature/_attachments/全量同步.png",
     "3-Literature/_attachments",
