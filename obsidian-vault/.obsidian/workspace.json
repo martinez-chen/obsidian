@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-Fleeting/IAM.md",
+                "file": "1-Fleeting/ACL.md",
                 "mode": "source",
                 "source": true
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-Fleeting/IAM.md",
+                "file": "1-Fleeting/ACL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-Fleeting/IAM.md",
+                "file": "1-Fleeting/ACL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-Fleeting/IAM.md"
+                "file": "1-Fleeting/ACL.md"
               }
             }
           },
@@ -196,20 +196,20 @@
   },
   "active": "d90cdaedc184e392",
   "lastOpenFiles": [
+    "3-Literature/AWS Outposts.md",
+    "3-Literature/AWS Forgate.md",
+    "3-Literature/Amazon EBS.md",
+    "3-Literature/Amazon ECS.md",
+    "3-Literature/Amazon EKS.md",
+    "1-Fleeting/ACL.md",
+    "1-Fleeting/未命名.md",
+    "1-Fleeting/IAM.md",
     "【Obsidian工作流】利用Obsidian實現卡片和筆記法.md",
     "3-Literature/Security Groups.md",
-    "1-Fleeting/IAM.md",
-    "1-Fleeting/未命名.md",
-    "1-Fleeting/ACL.md",
-    "1-Fleeting/Amazon EBS.md",
     "1-Fleeting/2024-05-30.md",
     "conflict-files-obsidian-git.md",
     "Excalidraw/哨兵模式 Sentinel.md",
     "3-Literature/AWS EC2.md",
-    "1-Fleeting/Amazon EKS.md",
-    "1-Fleeting/Amazon ECS.md",
-    "1-Fleeting/AWS Forgate.md",
-    "1-Fleeting/AWS Outposts.md",
     "1-Fleeting/Redis-Insight.md",
     "3-Literature/Amazon SQS.md",
     "3-Literature/Amazon CloudFront.md",
