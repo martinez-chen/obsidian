@@ -47,11 +47,9 @@
             "id": "d52eb3cbe95d601a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "1-Fleeting/2024-06-23.md",
-                "mode": "source",
-                "source": true
+                "currentVersion": "1.6.3"
               }
             }
           }
@@ -140,7 +138,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-Fleeting/2024-06-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +154,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-Fleeting/2024-06-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,9 +175,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1-Fleeting/2024-06-23.md"
-              }
+              "state": {}
             }
           },
           {
